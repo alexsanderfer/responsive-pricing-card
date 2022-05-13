@@ -2,4 +2,4 @@
 ### Responsive Pricing Card
 Interface responsiva de cartões de preço, usando HTML & CSS.
 
-![Pricing card]()
+<a href="https://alexsanderfer.github.io/responsive-pricing-card/" target="_blank"> Cartões de Preços Responsivos
